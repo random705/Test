@@ -1,2 +1,1 @@
-# Test
-Trying out Github features.
+Hello, World!
